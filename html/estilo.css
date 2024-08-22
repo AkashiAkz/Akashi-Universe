@@ -1,0 +1,116 @@
+body {
+    color: white;
+    background-image:url(https://images3.alphacoders.com/156/156337.jpg);
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+header {
+    border-bottom: solid 2px aqua;
+    padding: 20px;
+    font-size: 32px;
+    color: aqua;
+    text-align: center;
+}
+
+section {
+    background: rgb(22, 122, 144);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+section {
+
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 30px;
+}
+
+img {
+    height: 200px;
+}
+
+.categoria-instagram {
+    display: flex;
+    overflow-x: auto;
+    gap: 20px;
+}
+
+
+.instagram {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.contato {
+    color: blue;
+    background: rgb(14, 4, 4);
+    display: flex;
+    justify-content: left;
+    font-size: 22px;
+}
+.chamada {
+    background: black;
+    padding: 20px;
+    overflow-x: auto;
+    gap: 20px;
+}
+
+
+.play-button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #1db954;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.play-button:hover {
+    background-color: #1ed760;
+}
+
+audio {
+    display: none;
+
+}
+
+button {
+        display: inline;
+        color: #fefefe;
+        text-decoration: none;
+        background: #333;
+        padding: 1vh 2vw 1vh 2vw;
+        border-radius: 10px;
+        transition: all 0.3s;
+}
+.criador{
+    color: white;
+    font-size: 22px;
+}
+.subtitulo{
+    background:rgb(22, 122, 144);
+    padding: 2px;
+    padding-left: 460px;
+}
+h2{
+    font-size: 32px;
+}
+.conteudo{
+    padding: 1px;
+    background: gray;
+    text-align: center;
+}
