@@ -15,7 +15,7 @@ header {
 
 section {
     background: rgb(22, 122, 144);
-    padding-bottom: 80px;
+    padding-bottom: 10px;
     padding-top: 80px;
     display: flex;
     justify-content: center;
@@ -45,6 +45,8 @@ img {
 }
 
 .categoria-instagram {
+    padding: 40px;
+    background: rgb(255, 161, 73);
     display: flex;
     overflow-x: auto;
     gap: 20px;
@@ -55,7 +57,7 @@ img {
     padding-left: 20px;
     padding-right: 20px;
 }
-.contato {
+footer {
     color: blue;
     background: rgb(14, 4, 4);
     display: flex;
@@ -113,4 +115,32 @@ h2{
     padding: 1px;
     background: gray;
     text-align: center;
+}
+.informatica h2 {
+    padding-top: 30px;
+    padding-left: 80px;
+    font-size: 32px;
+}
+
+.underline {
+    padding: 20px;
+}
+
+.youtube-mais{
+    padding: 40px;
+    background: rgb(63, 56, 49);
+    display: flex;
+    overflow-x: auto;
+    gap: 20px;
+}
+.texto-yt h2 {
+    font-size: 32px;
+}
+.texto-yt p {
+    color: aqua;
+    font-size: 30px;
+}
+.texto-yt a {
+    color: aqua;
+    font-size: 26px;
 }
