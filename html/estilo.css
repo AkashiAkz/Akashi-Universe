@@ -40,6 +40,9 @@ p {
     font-size: 30px;
 }
 
+
+
+
 img {
     height: 200px;
 }
@@ -58,11 +61,12 @@ img {
     padding-right: 20px;
 }
 footer {
-    color: blue;
+    padding-left: 445px;
     background: rgb(14, 4, 4);
     display: flex;
     justify-content: left;
-    font-size: 22px;
+    overflow-x: auto;
+    
 }
 .chamada {
     background: black;
@@ -143,4 +147,37 @@ h2{
 .texto-yt a {
     color: aqua;
     font-size: 26px;
+}
+.artist{
+    background: blue;
+    padding-left: 20px;
+}
+.texto-artist{
+    padding-top: 20px;
+    padding-left: 350px;
+}
+.arte{
+    padding-right: 90px;
+    display: flex;
+    justify-content: center;
+}
+
+.twitch{
+    background: rgb(66, 7, 66);
+    padding-bottom: 80px;
+}
+.texto-tv{
+    padding-top: 20px;
+    padding-left: 350px;
+}
+.canal{ 
+    padding-right: 90px;
+    display: flex;
+    justify-content: center;
+}
+.linedown{
+    padding-left: 500px;
+    padding-bottom: 5px;
+    padding-top: 3px;
+    background: rgb(14, 4, 4);
 }
