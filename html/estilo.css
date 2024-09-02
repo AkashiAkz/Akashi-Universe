@@ -13,6 +13,16 @@ header {
     text-align: center;
 }
 
+.area{
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+.sob{
+    color: white;
+    display: flex;
+    justify-content: center;
+}
 section {
     background: rgb(22, 122, 144);
     padding-bottom: 10px;
@@ -61,10 +71,9 @@ img {
     padding-right: 20px;
 }
 footer {
-    padding-left: 445px;
     background: rgb(14, 4, 4);
     display: flex;
-    justify-content: left;
+    justify-content: center;
     overflow-x: auto;
     
 }
@@ -110,7 +119,7 @@ button {
 .subtitulo{
     background:rgb(22, 122, 144);
     padding: 2px;
-    padding-left: 460px;
+    padding-left: 560px;
 }
 h2{
     font-size: 32px;
@@ -154,7 +163,7 @@ h2{
 }
 .texto-artist{
     padding-top: 20px;
-    padding-left: 350px;
+    padding-left: 480px;
 }
 .arte{
     padding-right: 90px;
@@ -168,7 +177,7 @@ h2{
 }
 .texto-tv{
     padding-top: 20px;
-    padding-left: 350px;
+    padding-left: 430px;
 }
 .canal{ 
     padding-right: 90px;
@@ -176,7 +185,7 @@ h2{
     justify-content: center;
 }
 .linedown{
-    padding-left: 500px;
+    padding-left: 550px;
     padding-bottom: 5px;
     padding-top: 3px;
     background: rgb(14, 4, 4);

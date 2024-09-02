@@ -1,0 +1,87 @@
+body {
+    color: white;
+    background-image:url(https://images3.alphacoders.com/156/156337.jpg);
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+header {
+    border-bottom: solid 2px aqua;
+    padding: 20px;
+    font-size: 32px;
+    color: aqua;
+    text-align: center;
+}
+
+button {
+    display: inline;
+    color: #fefefe;
+    text-decoration: none;
+    background: #333;
+    padding: 1vh 2vw 1vh 2vw;
+    border-radius: 10px;
+    transition: all 0.3s;
+}
+
+.destaque{
+    padding-left: 400px;
+    font-size: 38px;
+    color: rgba(15, 206, 240, 0.616);
+}
+.subtitulo{
+    background-color: rgb(0, 0, 61);
+    padding-left: 100px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.continuacao{
+    padding-left: 100px;
+    background-color: rgb(44, 0, 44);
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.underline{
+    padding-left: 540px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.linedown{
+    padding-left: 500px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+iframe{
+    display: flex;
+    padding-left: 300px;
+}
+
+.plataformas{
+    color: purple;
+    padding-left: 400px;
+}
+
+.vintequatro{
+    padding-left: 100px;
+    background-color: rgb(0, 2, 138);
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+footer {
+    background: rgb(14, 4, 4);
+    display: flex;
+    justify-content: center;
+    overflow-x: auto;
+}
+
+.contato{
+    font-size: 26px;
+    padding-left: 530px;
+    padding-bottom: 5px;
+    padding-top: 20px;
+    background: rgb(14, 4, 4);
+}
