@@ -24,7 +24,7 @@ header {
     justify-content: center;
 }
 section {
-    background: rgb(22, 122, 144);
+    background: rgba(22, 122, 144, 0.397);
     padding-bottom: 10px;
     padding-top: 80px;
     display: flex;
@@ -59,7 +59,7 @@ img {
 
 .categoria-instagram {
     padding: 40px;
-    background: rgb(255, 161, 73);
+    background: rgba(255, 161, 73, 0.301);
     display: flex;
     overflow-x: auto;
     gap: 20px;
@@ -117,16 +117,16 @@ button {
     font-size: 22px;
 }
 .subtitulo{
-    background:rgb(22, 122, 144);
+    background:rgba(22, 122, 144, 0.39);
     padding: 2px;
-    padding-left: 560px;
+    padding-left: 460px;
 }
 h2{
     font-size: 32px;
 }
 .conteudo{
     padding: 1px;
-    background: gray;
+    background: rgba(128, 128, 128, 0.521);
     text-align: center;
 }
 .informatica h2 {
@@ -141,7 +141,7 @@ h2{
 
 .youtube-mais{
     padding: 40px;
-    background: rgb(63, 56, 49);
+    background: rgba(63, 56, 49, 0.541);
     display: flex;
     overflow-x: auto;
     gap: 20px;
@@ -158,12 +158,12 @@ h2{
     font-size: 26px;
 }
 .artist{
-    background: blue;
+    background: rgba(0, 0, 255, 0.315);
     padding-left: 20px;
 }
 .texto-artist{
     padding-top: 20px;
-    padding-left: 480px;
+    padding-left: 330px;
 }
 .arte{
     padding-right: 90px;
@@ -172,12 +172,12 @@ h2{
 }
 
 .twitch{
-    background: rgb(66, 7, 66);
+    background: rgba(66, 7, 66, 0.438);
     padding-bottom: 80px;
 }
 .texto-tv{
     padding-top: 20px;
-    padding-left: 430px;
+    padding-left: 330px;
 }
 .canal{ 
     padding-right: 90px;
